@@ -8,7 +8,7 @@
   "vars" : [ {
     "name" : "htmlTemplate",
     "expr" : {
-      "str" : "<html>\n    <head>\n        \n    </head>\n    <body>\n        <div class=\"container\">\n            <h1>Test CJS Application</h1>\n        </div>\n    </body>\n</html>",
+      "str" : "<html>\n    <head>\n        \n    </head>\n    <body>\n        <div class=\"container\">\n            <h1 style=\"color:red;\">Test CJS Application Changed!</h1>\n        </div>\n    </body>\n</html>",
       "strEditMode" : "html",
       "type" : "STRING"
     }
