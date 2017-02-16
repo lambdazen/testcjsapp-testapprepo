@@ -1,0 +1,30 @@
+{
+  "uri" : "local://0EzzE9X6bgBQu4kG_Rp0U1/",
+  "name" : "Test CJS Application",
+  "category" : "",
+  "parent" : "local://TaJgKmBQq7AWvaR-wwiJL1/",
+  "flags" : "U",
+  "lvars" : [ ],
+  "vars" : [ {
+    "name" : "htmlTemplate",
+    "expr" : {
+      "str" : "<html>\n    <head>\n        \n    </head>\n    <body>\n        <div class=\"container\">\n            <h1>Test CJS Application</h1>\n        </div>\n    </body>\n</html>",
+      "strEditMode" : "html",
+      "type" : "STRING"
+    }
+  }, {
+    "name" : "page",
+    "expr" : {
+      "concept" : "/common/core/iduwOQ2KZv8MWqamwqb6AE/",
+      "bindings" : {
+        "html" : "htmlTemplate"
+      },
+      "type" : "CONCEPT"
+    }
+  } ],
+  "isas" : [ {
+    "var" : "page"
+  } ],
+  "encodedidxhash" : "",
+  "isLambda" : false
+}
